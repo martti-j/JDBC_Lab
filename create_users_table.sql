@@ -1,0 +1,5 @@
+CREATE TABLE `MYDB`.`userss` (
+  `ID` INT NOT NULL AUTO_INCREMENT,
+  `FirstName` VARCHAR(45) NULL,
+  `LastName` VARCHAR(45) NULL,
+  PRIMARY KEY (`ID`));
